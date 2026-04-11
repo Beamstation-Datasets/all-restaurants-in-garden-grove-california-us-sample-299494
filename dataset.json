@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Garden Grove, California with a population of over 171k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Garden Grove, California, US",
+  "export_job_id": "c92c4efc-01f5-4fba-b44b-0d8cb836f5b9",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 299494,
+  "location_name": "Garden Grove",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-garden-grove-california-us-sample-299494",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/299494/beamstation_299494_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 50,
+  "sample_sha256": "89dc6e57c3069046c3af10a67409c9e2082b7dd466240d4f95039c2659672bf0",
+  "sample_size_bytes": 199086,
+  "total_records": 502,
+  "updated_at": "2026-04-09T12:37:26.480141+00:00"
+}
