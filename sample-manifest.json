@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c92c4efc-01f5-4fba-b44b-0d8cb836f5b9",
+  "export_job_id": "063a8d04-270c-4a00-a636-c0814a3a7db3",
   "id_short": 299494,
-  "published_at": "2026-04-11T19:20:43Z",
+  "published_at": "2026-04-19T19:30:12Z",
   "repo_name": "all-restaurants-in-garden-grove-california-us-sample-299494",
   "sample_asset_name": "beamstation_299494_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/299494/beamstation_299494_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 50,
-  "sample_sha256": "89dc6e57c3069046c3af10a67409c9e2082b7dd466240d4f95039c2659672bf0",
-  "sample_size_bytes": 199086,
-  "total_records": 502
+  "sample_records": 48,
+  "sample_sha256": "6ce690e466dd32d6a0f7b619432991a74cbf0b7acbab82547d974d08ff12c8b9",
+  "sample_size_bytes": 186037,
+  "total_records": 486
 }
